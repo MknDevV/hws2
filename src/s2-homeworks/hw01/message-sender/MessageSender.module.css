@@ -3,12 +3,7 @@
 }
 
 .textarea {
-    overflow: hidden;
-    resize: none;
-    width: 976px;
-    border: none;
-    height: 40px;
-    border-radius: 20px;
+
 }
 
 .button {
